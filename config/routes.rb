@@ -3,3 +3,4 @@ Rails.application.routes.draw do
 end
 
 get 'about', to: 'static#about'
+# 
